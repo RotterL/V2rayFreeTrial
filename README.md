@@ -1,5 +1,5 @@
 # V2rayFreeTrial
-免费v2ray机场试用 [FlyGW](https://flygw.top/index.php#/register?code=P6TxNooF)
+免费v2ray机场试用 [FlyGW](https://m.flyoutgw.top/#/register?code=P6TxNooF)
 
 经常有人向我咨询机场推荐，因此我特地写下这些信息，以便他们自行选择。
 
@@ -25,7 +25,7 @@
 
 6.不推荐使用QQ邮箱注册，尽量选择Gmail、Outlook、Protonmail等邮箱注册。不要使用真实个人信息。有试用先试用，再决定是否购买。
 
-我给大家推荐一个可以免费试用的机场：[FlyGW](https://flygw.top/index.php#/register?code=P6TxNooF)，这家是我自用了两年的机场，特殊时期网速会稍微差点，但整体来讲一直很稳定，而且试用之后再购买也更稳妥。
+我给大家推荐一个可以免费试用的机场：[FlyGW](https://m.flyoutgw.top/#/register?code=P6TxNooF)，这家是我自用了两年的机场，特殊时期网速会稍微差点，但整体来讲一直很稳定，而且试用之后再购买也更稳妥。
 
 这家是邀请制的，必须要有邀请码才能注册，如果你需要注册，可以在官网flygw.top使用用我的邀请码`P6TxNooF`（或者直接点击我的邀请链接），这样你可以获得9.9的优惠券，我也能获得你消费的10%用来给自己续费。希望以上信息对你有帮助。
 
